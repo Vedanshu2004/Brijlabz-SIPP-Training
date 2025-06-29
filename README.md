@@ -40,4 +40,7 @@ Learned how `static` variables/methods work, used `final` for constants, and `th
 ### ✅ Day 12 – Class Diagram  
 Studied object modeling using class diagrams to visualize structure and relationships in OOP.
 
+### ✅ Day 13 – Workshop  
+Conducted a hands-on workshop to revise previous topics through collaborative problem-solving.
+
 
